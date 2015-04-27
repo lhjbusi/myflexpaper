@@ -1,10 +1,10 @@
-����FlexPaper2.0.2�޸�
+基于FlexPaper2.0.2修改
 
-��ȥ���������Ĵ�ӡ��ť��FB��ť
-��ȥ��ҳ����ػ��ظ�����ʱ���½ǵ�LOGOͼƬ
-��ȥ���Ҽ��˵��Ĺ��ںʹ�ӡ
+已去掉工具栏的打印按钮和FB按钮
+已去掉页面加载或重复加载时右下角的LOGO图片
+已去掉右键菜单的关于和打印
 
-CanPrint ���������Ƿ���ʾ��ӡ��ť
-SwfFile : encodeURI("����")
+CanPrint 参数控制是否显示打印按钮
+SwfFile : encodeURI("中文")
 
-�޸Ļ��ߣ�ȥ��˫��ȡ��
+修改划线，去掉双击取字
