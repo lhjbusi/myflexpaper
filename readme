@@ -6,3 +6,5 @@
 
 CanPrint 参数控制是否显示打印按钮
 SwfFile : encodeURI("中文")
+
+修改划线，去掉双击取字
